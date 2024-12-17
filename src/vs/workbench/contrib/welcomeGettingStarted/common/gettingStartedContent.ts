@@ -351,7 +351,7 @@ export const walkthroughs: GettingStartedWalkthroughContent = [
 
 	{
 		id: 'SetupWeb',
-		title: localize('gettingStarted.setupWeb.title', "Get Started with VS Code for the Web"),
+		title: localize('gettingStarted.setupWeb.title', "Welcome to Black Box"),
 		description: localize('gettingStarted.setupWeb.description', "Customize your editor, learn the basics, and start coding"),
 		isFeatured: true,
 		icon: setupIcon,
